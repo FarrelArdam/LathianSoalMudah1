@@ -30,3 +30,5 @@ Jika volume > 100 cm³, maka ditambah biaya Rp 50.000.
 
 Tampilkan hasil:
 Program menampilkan semua data dan total biaya pengiriman.
+
+<img width="1571" height="1011" alt="Screenshot 2025-11-03 122532" src="https://github.com/user-attachments/assets/e92fbcbf-4d9d-4756-a808-3ed71d7ad574" />
